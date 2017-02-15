@@ -11,7 +11,7 @@ $config = [
             // !!! insert a secret key in the following (if it is empty) - this is required by cookie validation
             'cookieValidationKey' => 'iWjNlyDSPtZIVdl0yxQUpMuSlZqyIakf',
             'class' => 'app\components\LangRequest',
-//            'baseUrl' => '',
+            'baseUrl' => '',
         ],
 //        'assetManager' => [
 //	        'basePath' => '@webroot/assets',
